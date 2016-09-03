@@ -1,11 +1,11 @@
-# A practical security guide for web developers
+# Veb proqramçılar(mühəndislər) üçün praktiki təhlükəsiz qaydalar
 
-### The intended audience
+### Əsas auditoriya
 
-Security issues happen for two reasons - 
+Vebdə təhlükəsiz insidentlər iki səbəbə görə baş verir - 
 
-1. Developers who have just started and cannot really tell a difference between using MD5 or bcrypt.
-2. Developers who know stuff but forget/ignore them.
+1. Veb proqramlaşdırma üzrə fəaliyyətinizi yeni başlamısınız və  MD5/bcrypt arasında fərgini bilmirsiniz.
+2. Kifayət qədər təcrübəyə maliksiniz amma təhlükəsiz qaydalara riayət etmirsiniz ya da unutmusunuz.
 
 Our detailed explanations should help the first type while we hope our checklist helps the second one create more secure systems. This is by no means a comprehensive guide, it just covers stuff based on the most common issues we have discovered in the past.
 
