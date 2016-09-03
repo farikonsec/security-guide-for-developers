@@ -4,10 +4,10 @@
 
 Vebdə təhlükəsiz insidentlər iki səbəbə görə baş verir - 
 
-1. Veb proqramlaşdırma üzrə fəaliyyətinizi yeni başlamısınız və  MD5/bcrypt arasında fərgini bilmirsiniz.
-2. Kifayət qədər təcrübəyə maliksiniz amma təhlükəsiz qaydalara riayət etmirsiniz ya da unutmusunuz.
+1. Veb proqramlaşdırma üzrə fəaliyyətinizi yeni başlamısınız və  MD5/bcrypt arasında fərqini bilmirsiniz.
+2. Kifayət qədər təcrübəyə maliksiniz amma təhlükəsiz qaydalara riayət etmirsiniz və ya unutmusunuz.
 
-Our detailed explanations should help the first type while we hope our checklist helps the second one create more secure systems. This is by no means a comprehensive guide, it just covers stuff based on the most common issues we have discovered in the past.
+Buradaki detallı izahlar 1-ci kateqoriyalı mühəndislərə kömək edə bilər. Hazırladığımız yoxlama siyahısı isə 2-ci kateqoriyalı mühəndislər üçün faydalı ola bilər. Əlbətdə ki, bu hərtərəfli instruksiya deyil. Amma burada qeyd olunan problemlər ən yayılmış texniki xətalara aiddir.
 
 
 ### Contents
