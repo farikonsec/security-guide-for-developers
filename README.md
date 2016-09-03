@@ -1,6 +1,6 @@
-# Veb proqramçılar(mühəndislər) üçün praktiki təhlükəsiz qaydalar
+# Veb proqramçılar (mühəndislər) üçün praktiki təhlükəsiz qaydalar
 
-### Kimin üçün
+### Kimlər üçün
 
 Vebdə təhlükəsiz insidentlər iki səbəbə görə baş verir - 
 
@@ -12,20 +12,20 @@ Buradaki detallı izahlar 1-ci kateqoriyalı mühəndislərə kömək edə bilə
 
 ### Mündəricat
 
-1. [The Security Checklist](security-checklist.md)
-2. What can go wrong?
-3. Securely transporting stuff: HTTPS explained
-4. Authentication: I am who I say I am  
-4.1 Form based authentication  
-4.2 Basic authentication  
-4.3 One is not enough, 2 factor, 3 factor, ....   
-4.4 Why use insecure text messages? Introducing HOTP & TOTP   
-4.5 Handling password resets
-5. Authorization: What am I allowed to do?  
-5.1 Token based Authorization  
+1. [Təhlükəsiz qaydaların siyahısı](security-checklist.md)
+2. Nələr yanlış gedə bilər?
+3. Məlumatların təhlükəsiz ötürülməsi: HTTPS nədir?
+4. Autentifikasiya: Mən kiməm? Sən kimsən?
+4.1 Formlara görə autentifikasiya  
+4.2 Sadə autentifikasiya  
+4.3 Bir neçə faktorlu autentifiaksiya  
+4.4 Təhlükəli tekst mesajları istifadə etmiyək. HOTP & TOTP nədir?   
+4.5 Parolları necə yenilənmək lazımdır
+5. Avtorizasiya: Mən nə edə bilərəm?  
+5.1 Tokenli avtorizasiya  
 5.2 OAuth & OAuth2  
 5.3 JWT
-6. Data Validation and Sanitation: Never trust user input  
+6. Giriş verilənlərin yoxlaması: Giriş verilənlərə heç zaman etibar etməyin  
 6.1 Validating and Sanitizing Inputs  
 6.2 Sanitizing Outputs  
 6.3 Cross Site Scripting  
@@ -33,16 +33,16 @@ Buradaki detallı izahlar 1-ci kateqoriyalı mühəndislərə kömək edə bilə
 6.5 User uploads  
 6.6 Tamper-proof user inputs
 7. Plaintext != Encoding != Encryption != Hashing  
-7.1 Common encoding schemes  
-7.2 Encryption  
-7.3 Hashing & One way functions  
-7.4 Hashing speeds cheatsheet
-8. Passwords: dadada, 123456 and cute@123  
-8.1 Password policies  
-8.2 Storing passwords  
-8.3 Life without passwords
-9. Public Key Cryptography
-10. Sessions: Remember me, please  
+7.1 Ümumi kodlaşdırma metodları  
+7.2 Şifrələmə  
+7.3 Haşlar və bir tərəfli funksiyalar  
+7.4 Haş funksiyaların sürət cədvəli
+8. Parollar: dadada, 123456 və password123  
+8.1 Parolların qaydaları  
+8.2 Parolları necə yerləşdirmək lazımdır  
+8.3 Parolsuz həyat
+9. Açıq açar kriptoqrafiyası
+10. Sessiyalar: Məni yadda saxlıyıne  
 10.1 Where to save state?  
 10.2 Invalidating sessions  
 10.3 Cookie monster & you
@@ -50,11 +50,11 @@ Buradaki detallı izahlar 1-ci kateqoriyalı mühəndislərə kömək edə bilə
 11.1 Secure web headers  
 11.2 Data integrity check for 3rd party code  
 11.3 Certificate Pinning
-12. Configuration mistakes    
+12. Sazlama xətaları    
 12.0 Provisioning in cloud: Ports, Shodan & AWS
 12.1 Honey, you left the debug mode on  
-12.2 Logging (or not logging)  
-12.3 Monitoring  
+12.2 Texniki qeydləri yazma  
+12.3 Müşahidə  
 12.4 Principle of least privilege  
 12.5 Rate limiting & Captchas  
 12.6 Storing project secrets and passwords in a file    
@@ -63,14 +63,14 @@ Buradaki detallı izahlar 1-ci kateqoriyalı mühəndislərə kömək edə bilə
 13. Attacks: When the bad guys arrive  
 13.1 Clickjacking  
 13.2 Cross Site Request Forgery  
-13.3 Denial of Service  
+13.3 Xidmətdən İmtina  
 13.4 Server Side Request Forgery
 14. [Stats about vulnerabilities discovered in Internet Companies](vulnerabilities-stats.md)   
 15. On reinventing the wheel, and making it square  
 15.1 Security libraries and packages for Python  
 15.2 Security libraries and packages for Node/JS  
-15.3 Learning resources
+15.3 Öyrənmə mənbələri
 16. Maintaining a good security hygiene
-17. Security Vs Usability
+17. Təhlükəsizlik və rahat istifadə etmə
 18. Back to Square 1: The Security Checklist explained
 
