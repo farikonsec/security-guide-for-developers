@@ -1,6 +1,6 @@
 # Veb proqramçılar(mühəndislər) üçün praktiki təhlükəsiz qaydalar
 
-### Əsas auditoriya
+### Kimin üçün
 
 Vebdə təhlükəsiz insidentlər iki səbəbə görə baş verir - 
 
