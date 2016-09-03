@@ -10,7 +10,7 @@ Vebdə təhlükəsiz insidentlər iki səbəbə görə baş verir -
 Buradaki detallı izahlar 1-ci kateqoriyalı mühəndislərə kömək edə bilər. Hazırladığımız yoxlama siyahısı isə 2-ci kateqoriyalı mühəndislər üçün faydalı ola bilər. Əlbətdə ki, bu hərtərəfli instruksiya deyil. Amma burada qeyd olunan problemlər ən yayılmış texniki xətalara aiddir.
 
 
-### Contents
+### Mündaricat
 
 1. [The Security Checklist](security-checklist.md)
 2. What can go wrong?
